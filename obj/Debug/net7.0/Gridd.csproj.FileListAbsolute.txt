@@ -1,0 +1,15 @@
+C:\csCode\Gridd\bin\Debug\net7.0\Gridd.exe
+C:\csCode\Gridd\bin\Debug\net7.0\Gridd.deps.json
+C:\csCode\Gridd\bin\Debug\net7.0\Gridd.runtimeconfig.json
+C:\csCode\Gridd\bin\Debug\net7.0\Gridd.dll
+C:\csCode\Gridd\bin\Debug\net7.0\Gridd.pdb
+C:\csCode\Gridd\obj\Debug\net7.0\Gridd.csproj.AssemblyReference.cache
+C:\csCode\Gridd\obj\Debug\net7.0\Gridd.GeneratedMSBuildEditorConfig.editorconfig
+C:\csCode\Gridd\obj\Debug\net7.0\Gridd.AssemblyInfoInputs.cache
+C:\csCode\Gridd\obj\Debug\net7.0\Gridd.AssemblyInfo.cs
+C:\csCode\Gridd\obj\Debug\net7.0\Gridd.csproj.CoreCompileInputs.cache
+C:\csCode\Gridd\obj\Debug\net7.0\Gridd.dll
+C:\csCode\Gridd\obj\Debug\net7.0\refint\Gridd.dll
+C:\csCode\Gridd\obj\Debug\net7.0\Gridd.pdb
+C:\csCode\Gridd\obj\Debug\net7.0\Gridd.genruntimeconfig.cache
+C:\csCode\Gridd\obj\Debug\net7.0\ref\Gridd.dll
